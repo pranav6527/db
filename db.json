@@ -4,13 +4,13 @@
       "text": "study again",
       "day": "everyday",
       "reminder": true,
-      "id": 3
+      "id": 1
     },
     {
       "text": "spring",
       "day": "everyday",
       "reminder": true,
-      "id": 4
+      "id": 2
     }
   ]
 }
